@@ -4,7 +4,6 @@ import site1 from "../icons/todoapp.PNG";
 import site2 from "../icons/portfolio2.PNG";
 
 function Project() {
-    // Sample data for projects
     const projects = [
         {
             title: "Todo App",
@@ -12,15 +11,15 @@ function Project() {
                 "My Todo App is a simple yet powerful task management tool designed to help users stay organized and productive. With an intuitive interface and robust features, it offers a seamless experience for managing tasks efficiently.",
             codeLink: "https://github.com/touhid9teen/Todo-app",
             tech: "React, Tailwind CSS",
-            image: site1, // Replace with your image URL
+            image: site1,
         },
         {
             title: "Portfolio Website",
             description:
                 "Welcome to my Personal Portfolio Website, where I showcase my skills, projects, and experiences as a developer/designer. With a clean and modern design, this website serves as a central hub for exploring my work and learning more about me.",
-            codeLink: "https://github.com/touhid9teen/Todo-app",
+            codeLink: "https://github.com/touhid9teen/portfolio2",
             tech: "React, Tailwind CSS",
-            image: site2, // Replace with your image URL
+            image: site2,
         },
         {
             title: "News App",
@@ -28,9 +27,8 @@ function Project() {
                 "Introducing Newsify, your go-to app for staying updated with the latest news and trends from around the world. With a sleek and user-friendly interface, Newsify delivers personalized news content tailored to your interests, ensuring you never miss out on important stories.",
             codeLink: "https://github.com/touhid9teen/News-App",
             tech: "React, Tailwind CSS",
-            image: "https://via.placeholder.com/150", // Replace with your image URL
+            image: "https://via.placeholder.com/150",
         },
-        // Add more projects as needed
     ];
 
     return (
