@@ -48,7 +48,8 @@ function Contact() {
                 Want to start a new project? <br />
                 Or just say hello.
             </p>
-            <div className="flex flex-col sm:flex-row space-y-5 sm:space-y-0 sm:space-x-5">
+            <div className="flex flex-wrap justify-center items-center space-x-2 space-y-2 sm:space-x-5 sm:space-y-0">
+                {" "}
                 {socialLinks.map((link, index) => (
                     <a
                         key={index}
@@ -59,7 +60,7 @@ function Contact() {
                         <img
                             src={link.src}
                             alt={link.alt}
-                            className="h-10 w-10 sm:h-10 sm:w-10 md:h-10 md:w-10"
+                            className="h-10 w-10"
                         />
                     </a>
                 ))}
