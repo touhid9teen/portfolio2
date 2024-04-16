@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio2/static/css/main.91f7e8c0.css",
+    "main.js": "/portfolio2/static/js/main.e4c42383.js",
+    "static/js/488.951cdd2a.chunk.js": "/portfolio2/static/js/488.951cdd2a.chunk.js",
+    "static/media/newsapp.png": "/portfolio2/static/media/newsapp.f8e7bc649316bf707e50.png",
+    "static/media/programmer-3.gif": "/portfolio2/static/media/programmer-3.a00420d975b6efada43b.gif",
+    "static/media/Logo_of_rajshahi_university.jpg": "/portfolio2/static/media/Logo_of_rajshahi_university.cf4fb86286d04e78200c.jpg",
+    "static/media/portfolio2.PNG": "/portfolio2/static/media/portfolio2.71b44c06bfe74f896bb2.PNG",
+    "static/media/react.png": "/portfolio2/static/media/react.1ce7b597e7ddb0fccde3.png",
+    "static/media/github2.png": "/portfolio2/static/media/github2.ca1cbb819805878480da.png",
+    "static/media/c-.png": "/portfolio2/static/media/c-.24a8f93854ab092f17a7.png",
+    "static/media/C_Logo.png": "/portfolio2/static/media/C_Logo.bbbbbabc8c191bfb99bf.png",
+    "static/media/gmail2.png": "/portfolio2/static/media/gmail2.e8ce91739f62da1b4e07.png",
+    "static/media/stackoverflow.png": "/portfolio2/static/media/stackoverflow.14031aed7c6d30fe62a1.png",
+    "static/media/css.png": "/portfolio2/static/media/css.02d225c7df0b28341d8d.png",
+    "static/media/todoapp.PNG": "/portfolio2/static/media/todoapp.838f335d0c101529c1e8.PNG",
+    "static/media/medium.png": "/portfolio2/static/media/medium.3338d2e6e2496e72be4b.png",
+    "static/media/linkedin (1).png": "/portfolio2/static/media/linkedin (1).17e919bb623c20be8b80.png",
+    "static/media/github.png": "/portfolio2/static/media/github.44eee0c4a6c25b0d7347.png",
+    "static/media/java.png": "/portfolio2/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/facebook2.png": "/portfolio2/static/media/facebook2.a5def58db1e9c1b38269.png",
+    "static/media/html-5.png": "/portfolio2/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/js.png": "/portfolio2/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/hand.gif": "/portfolio2/static/media/hand.ada6520a62001896e329.gif",
+    "index.html": "/portfolio2/index.html",
+    "main.91f7e8c0.css.map": "/portfolio2/static/css/main.91f7e8c0.css.map",
+    "main.e4c42383.js.map": "/portfolio2/static/js/main.e4c42383.js.map",
+    "488.951cdd2a.chunk.js.map": "/portfolio2/static/js/488.951cdd2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91f7e8c0.css",
+    "static/js/main.e4c42383.js"
+  ]
+}
