@@ -2,6 +2,7 @@ import React from "react";
 import { FaExternalLinkAlt } from "react-icons/fa";
 import site1 from "../icons/todoapp.PNG";
 import site2 from "../icons/portfolio2.PNG";
+import site3 from "../icons/newsapp.png";
 
 function Project() {
     const projects = [
@@ -27,7 +28,7 @@ function Project() {
                 "Introducing Newsify, your go-to app for staying updated with the latest news and trends from around the world. With a sleek and user-friendly interface, Newsify delivers personalized news content tailored to your interests, ensuring you never miss out on important stories.",
             codeLink: "https://github.com/touhid9teen/News-App",
             tech: "React, Tailwind CSS",
-            image: "https://via.placeholder.com/150",
+            image: site3,
         },
     ];
 

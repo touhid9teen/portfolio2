@@ -30,7 +30,7 @@ const socialLinks = [
     {
         href: "https://medium.com/@toouhid",
         src: MD,
-        alt: "StackOverflow",
+        alt: "Medium",
     },
 
     {
