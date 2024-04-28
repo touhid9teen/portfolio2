@@ -62,7 +62,7 @@ function Home() {
                             />
                         </a>
                         <a
-                            href="../icons/Latest_Resume_Template_Touhidul_Islam.pdf"
+                            href="./Latest_Resume_Template_Touhidul_Islam.pdf"
                             download="Latest_Resume_Template_Touhidul_Islam.pdf"
                         >
                             <button className="border border-black p-1 px-4 rounded-xl bg-black text-white hover:bg-white hover:text-black">
