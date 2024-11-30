@@ -5,7 +5,10 @@ import upaylogo from '../icons/upaylogo.png'
 
 function About() {
   return (
-    <div className="flex items-center justify-center min-h-screen">
+    <div className="flex flex-col items-center justify-center min-h-screen">
+      <h1 className="text-4xl mb-10 font-bold text-blue-500">
+        From Classroom to Career
+      </h1>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-8 m-4 md:m-8 font-serif">
         <div className="flex flex-col bg-white shadow-lg rounded-lg max-w-md px-4 md:px-6 py-2 md:py-4 hover:shadow-neon transition-shadow duration-500">
           <h1 className="font-bold text-3xl md:text-4xl mb-4 md:mb-6 text-blue-500">
@@ -80,13 +83,14 @@ function About() {
               API security and compliance.
             </li>
             <li>
-              Optimized <b>microservice</b>microservice communication using <b>RESTful APIs</b>,
-              streamlining data exchange across distributed systems.
+              Optimized <b>microservice</b>microservice communication using{' '}
+              <b>RESTful APIs</b>, streamlining data exchange across distributed
+              systems.
             </li>
             <li>
               Leveraged <b>Celery</b> for asynchronous task management,
-              integrated <b>caching</b> mechanisms, and fine-tuned <b>Django ORM</b> queries
-              for optimal performance.
+              integrated <b>caching</b> mechanisms, and fine-tuned{' '}
+              <b>Django ORM</b> queries for optimal performance.
             </li>
             <li>
               Reinforced data integrity through advanced validation techniques,
