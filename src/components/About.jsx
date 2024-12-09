@@ -5,7 +5,8 @@ import upaylogo from '../icons/upaylogo.png'
 
 function About() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen">
+      <div className=" p-10 flex flex-col items-center justify-center font-serif pt-40">
+    {/* <div className="flex flex-col items-center justify-center min-h-screen"> */}
       <h1 className="text-4xl mb-10 font-bold text-blue-500">
         From Classroom to Career
       </h1>

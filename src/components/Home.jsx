@@ -38,7 +38,8 @@ function Home() {
   ]
 
   return (
-    <div className="h-screen w-screen flex flex-col items-center  mt-16 font-serif">
+    <div className=" p-10 flex flex-col items-center justify-center font-serif pt-40">
+    {/* <div className="h-screen w-screen flex flex-col items-center  mt-16 font-serif"> */}
       <div className="flex flex-col md:flex-row items-center justify-center gap-8">
         <div className="flex flex-col items-center justify-center text-center md:text-left">
         <h1 className="text-5xl font-extrabold mb-4">Back-end Developer</h1>
