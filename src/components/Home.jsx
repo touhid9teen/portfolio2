@@ -24,13 +24,12 @@ function Home() {
     { name: 'C++', logo: Cpp },
     { name: 'Django', logo: Django },
     { name: 'React', logo: Reactlogo },
-    
+
     { name: 'Django-Rest-Framework', logo: DjangoRest },
     { name: 'JavaScript', logo: JavaScript },
     { name: 'Postgres SQL', logo: Postgres },
     { name: 'Java', logo: Java },
     { name: 'Microsoft SQL Server', logo: SqlServer },
-    
 
     { name: 'HTML', logo: Html },
     { name: 'CSS', logo: Css },
@@ -39,15 +38,17 @@ function Home() {
 
   return (
     <div className=" p-10 flex flex-col items-center justify-center font-serif pt-40">
-    {/* <div className="h-screen w-screen flex flex-col items-center  mt-16 font-serif"> */}
+      {/* <div className="h-screen w-screen flex flex-col items-center  mt-16 font-serif"> */}
       <div className="flex flex-col md:flex-row items-center justify-center gap-8">
         <div className="flex flex-col items-center justify-center text-center md:text-left">
-        <h1 className="text-5xl font-extrabold mb-4">Back-end Developer</h1>
-<p className="text-2xl text-gray-700 leading-relaxed">
-  Hi, I'm <span className="font-semibold">Touhidul Islam</span>, a passionate and dedicated Back-end Developer<br />
-  with solid expertise in Front-end technologies, from Dhaka, Bangladesh.
-</p>
-
+          <h1 className="text-4xl font-extrabold mb-4">Back-end Developer</h1>
+          <p className="text-xl text-gray-700 leading-relaxed">
+            Hi, I'm <span className="font-semibold">Touhidul Islam</span>, a
+            passionate and dedicated Back-end Developer
+            <br />
+            with solid expertise in Front-end technologies, from Dhaka,
+            Bangladesh.
+          </p>
 
           <div className="flex gap-4 mt-4">
             <a
@@ -83,7 +84,10 @@ function Home() {
         </div>
       </div>
       <div className="flex flex-col items-center justify-center mt-32">
-        <h1 className="font-bold mb-8 text-3xl text-blue-500">Tech Stack I've Explored</h1>
+        <h1 className="font-bold mb-8 text-2xl text-blue-500">
+          Tech Stack I've Explored
+        </h1>
+
         <div className="flex flex-wrap justify-center gap-8">
           {techStack.map((tech, index) => (
             <div key={index} className="relative h-16 w-16">
